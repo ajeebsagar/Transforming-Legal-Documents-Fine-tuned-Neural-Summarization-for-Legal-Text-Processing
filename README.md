@@ -215,10 +215,6 @@ Key Findings from Classification Report:
 6. Balanced precision-recall trade-off across categories
 
 
-ONLY FOR AKSHAT'S PC 
 
-activate the environment --->  .\venv_new\Scripts\activate
-after the activation th eprompt will be like ---> (venv_new) PS C:\Users\aksha\legal> 
-now rumn the app.py file ---> .\venv_new\Scripts\python -m streamlit run app.py
 
 VIDEO EXPLANATION LINK ---> https://drive.google.com/file/d/1EkQ45w98CcQUav5fDlHIHzworLPWjOcF/view?usp=drive_link
